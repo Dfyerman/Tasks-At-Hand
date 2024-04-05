@@ -6,6 +6,6 @@ Installation: N/A
 
 Usage: Study Tasks and organize what we need to do in a draggable object.
 
-![Task-Board] (/Users/daniel/Tasks-At-Hand/assets/Img/Task Board.pdf)
+![Task-Board](./assets/Img/Task%20Board.pdf)
 
 Credits: © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
